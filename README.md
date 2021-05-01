@@ -1,3 +1,20 @@
+## Instagram-clone 🚀 🚀 🚀
+Live Demo 👉 https://instagram-clone-b7110.web.app/
+
+![Screenshot from 2021-05-01 17-33-41](https://user-images.githubusercontent.com/74534919/116781901-93bd9b00-aaa3-11eb-8fa1-309def2df5ca.png)
+
+
+<details open="open">
+  <summary>Tools/Packages</summary>
+  <ul><li>React.Js</li>
+    <li>CSS-3</li>
+    <li>HTML-5</li>
+    <li>Firebase</li>
+    <li>material-UI/Icon</li>
+    <li>Email-Password-Authentication-firebase</li>
+    
+  </ul>
+</details>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
